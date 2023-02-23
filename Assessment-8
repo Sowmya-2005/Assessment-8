@@ -1,4 +1,4 @@
-#Print n1 to n2 odd numbers except 3rd number in the range.
+//Print n1 to n2 odd numbers except 3rd number in the range.
 #include <stdio.h>
 
 int main()
